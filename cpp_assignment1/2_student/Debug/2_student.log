@@ -1,0 +1,4 @@
+﻿  2_student.cpp
+c:\users\cdac\source\repos\mahathimalla\cpp\cpp_assignment1\2_student\2_student.cpp(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  2_student.vcxproj -> C:\Users\cdac\Source\Repos\MahathiMalla\CPP\cpp_assignment1\Debug\2_student.exe
+  2_student.vcxproj -> C:\Users\cdac\Source\Repos\MahathiMalla\CPP\cpp_assignment1\Debug\2_student.pdb (Partial PDB)
